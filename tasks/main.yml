@@ -1,0 +1,4 @@
+---
+- import_tasks: tuning.yml
+- import_tasks: reboot.yml
+
